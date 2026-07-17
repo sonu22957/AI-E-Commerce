@@ -1,0 +1,1065 @@
+2026-07-13 16:24:17 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:24:47 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:24:58 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:25:28 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:26:25 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:26:55 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:31:10 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:31:40 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:31:48 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:31:59 [32minfo[39m: GET /
+2026-07-13 16:31:59 [33mwarn[39m: Client error Cannot GET /
+2026-07-13 16:31:59 [32minfo[39m: GET /favicon.ico
+2026-07-13 16:31:59 [33mwarn[39m: Client error Cannot GET /favicon.ico
+2026-07-13 16:32:18 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:34:46 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:35:08 [32minfo[39m: GET /
+2026-07-13 16:35:16 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:36:38 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:36:43 [32minfo[39m: GET /
+2026-07-13 16:36:50 [32minfo[39m: GET /
+2026-07-13 16:36:56 [32minfo[39m: GET /
+2026-07-13 16:37:08 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:39:09 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:39:38 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:40:38 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:41:09 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:41:39 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 16:59:24 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 16:59:31 [32minfo[39m: GET /
+2026-07-13 16:59:38 [32minfo[39m: GET /
+2026-07-13 16:59:54 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 17:18:29 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 17:18:39 [32minfo[39m: GET /
+2026-07-13 17:18:46 [32minfo[39m: GET /
+2026-07-13 17:18:59 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 17:22:38 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 17:22:45 [32minfo[39m: GET /
+2026-07-13 17:22:49 [32minfo[39m: GET /
+2026-07-13 17:23:08 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 21:49:32 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 21:49:44 [32minfo[39m: GET /
+2026-07-13 21:50:02 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 21:50:23 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 21:51:27 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 21:51:57 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 21:52:52 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 21:53:22 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 21:55:46 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 21:56:16 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 22:21:38 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:21:41 [32minfo[39m: GET /
+2026-07-13 22:21:41 [32minfo[39m: GET /favicon.ico
+2026-07-13 22:21:41 [33mwarn[39m: Client error Cannot GET /favicon.ico
+2026-07-13 22:22:00 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:22:00 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:22:00 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:22:00 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:22:07 [31merror[39m: ❌ MongoDB connection error
+2026-07-13 22:24:46 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:24:47 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 22:25:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:25:23 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:25:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:25:23 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:25:49 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:25:49 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 22:26:47 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:26:47 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 22:26:57 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:26:57 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:26:57 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:26:57 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:26:59 [32minfo[39m: GET /api/products
+2026-07-13 22:26:59 [32minfo[39m: GET /api/products
+2026-07-13 22:27:01 [32minfo[39m: GET /api/products
+2026-07-13 22:27:09 [32minfo[39m: GET /api/products
+2026-07-13 22:27:09 [32minfo[39m: GET /api/products
+2026-07-13 22:27:23 [32minfo[39m: POST /api/auth/login
+2026-07-13 22:27:28 [32minfo[39m: POST /api/auth/login
+2026-07-13 22:42:36 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:42:36 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:42:36 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:42:36 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:42:48 [32minfo[39m: GET /api/products
+2026-07-13 22:42:48 [32minfo[39m: GET /api/products
+2026-07-13 22:42:50 [32minfo[39m: GET /api/products
+2026-07-13 22:43:02 [32minfo[39m: POST /api/auth/login
+2026-07-13 22:51:57 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:51:57 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 22:54:07 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:54:07 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:54:07 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:54:07 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:54:11 [32minfo[39m: GET /api/products
+2026-07-13 22:54:11 [32minfo[39m: GET /api/products
+2026-07-13 22:54:14 [32minfo[39m: GET /api/products
+2026-07-13 22:54:15 [32minfo[39m: GET /api/products
+2026-07-13 22:54:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:54:23 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:54:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 22:54:23 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 22:57:21 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:57:22 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 22:57:54 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:57:55 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 22:58:21 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:58:22 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 22:58:32 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 22:58:32 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 23:02:02 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 23:02:03 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 23:02:09 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 23:02:09 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 23:02:09 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 23:02:09 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 23:02:11 [32minfo[39m: GET /api/products
+2026-07-13 23:02:11 [32minfo[39m: GET /api/products
+2026-07-13 23:02:44 [32minfo[39m: POST /api/auth/register
+2026-07-13 23:02:44 [31merror[39m: Server error
+2026-07-13 23:02:49 [32minfo[39m: POST /api/auth/register
+2026-07-13 23:03:00 [32minfo[39m: POST /api/auth/register
+2026-07-13 23:03:08 [32minfo[39m: POST /api/auth/register
+2026-07-13 23:03:24 [32minfo[39m: POST /api/auth/register
+2026-07-13 23:03:48 [32minfo[39m: POST /api/auth/register
+2026-07-13 23:03:48 [31merror[39m: Server error
+2026-07-13 23:04:17 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:04:20 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:04:26 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-13 23:04:26 [33mwarn[39m: Client error Cannot POST /api/auth/forgot-password
+2026-07-13 23:04:28 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-13 23:04:28 [33mwarn[39m: Client error Cannot POST /api/auth/forgot-password
+2026-07-13 23:08:49 [32minfo[39m: GET /
+2026-07-13 23:09:31 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:10:06 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:10:11 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:11:37 [32minfo[39m: POST /
+2026-07-13 23:11:37 [33mwarn[39m: Client error Cannot POST /
+2026-07-13 23:14:26 [32minfo[39m: POST /api/auth/register
+2026-07-13 23:22:19 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 23:22:19 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 23:22:19 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 23:22:19 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 23:22:21 [32minfo[39m: GET /api/products
+2026-07-13 23:22:21 [32minfo[39m: GET /api/products
+2026-07-13 23:22:27 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:22:44 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 23:22:45 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 23:24:07 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 23:24:08 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 23:24:27 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 23:24:27 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 23:24:27 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 23:24:27 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 23:24:29 [32minfo[39m: GET /api/products
+2026-07-13 23:24:29 [32minfo[39m: GET /api/products
+2026-07-13 23:27:26 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 23:27:26 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 23:27:35 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 23:27:36 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 23:28:16 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 23:28:16 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 23:28:16 [32minfo[39m: GET /api/ai/recommendations
+2026-07-13 23:28:16 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-13 23:28:21 [32minfo[39m: GET /api/products
+2026-07-13 23:28:21 [32minfo[39m: Fetched products
+2026-07-13 23:28:21 [32minfo[39m: GET /api/products
+2026-07-13 23:28:21 [32minfo[39m: Fetched products
+2026-07-13 23:28:36 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:28:42 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-13 23:28:42 [33mwarn[39m: Client error Cannot POST /api/auth/forgot-password
+2026-07-13 23:31:34 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-13 23:31:34 [33mwarn[39m: Client error Cannot POST /api/auth/forgot-password
+2026-07-13 23:34:26 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 23:34:26 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 23:35:17 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-13 23:35:17 [32minfo[39m: Password reset token generated for user
+2026-07-13 23:36:20 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-13 23:36:20 [32minfo[39m: Password reset token generated for user
+2026-07-13 23:36:27 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:36:33 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-13 23:36:33 [32minfo[39m: Password reset token generated for user
+2026-07-13 23:36:50 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:39:42 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:39:43 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:39:44 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:40:30 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:40:59 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:51:10 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:51:17 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:51:22 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:51:27 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-13 23:51:27 [32minfo[39m: Password reset token generated for user
+2026-07-13 23:54:53 [32minfo[39m: POST /api/auth/reset-password
+2026-07-13 23:54:53 [33mwarn[39m: Client error Cannot POST /api/auth/reset-password
+2026-07-13 23:56:27 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-13 23:56:27 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-13 23:56:57 [32minfo[39m: POST /api/auth/reset-password
+2026-07-13 23:56:57 [33mwarn[39m: Client error Cannot POST /api/auth/reset-password
+2026-07-13 23:58:59 [32minfo[39m: POST /
+2026-07-13 23:58:59 [33mwarn[39m: Client error Cannot POST /
+2026-07-13 23:59:17 [32minfo[39m: POST /api/auth/login
+2026-07-13 23:59:23 [32minfo[39m: POST /api/auth/login
+2026-07-14 08:43:34 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-14 08:43:34 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-14 08:44:19 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:44:19 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:44:19 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:44:19 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:44:22 [32minfo[39m: GET /api/products
+2026-07-14 08:44:22 [32minfo[39m: Fetched products
+2026-07-14 08:44:22 [32minfo[39m: GET /api/products
+2026-07-14 08:44:22 [32minfo[39m: Fetched products
+2026-07-14 08:44:32 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:44:32 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:44:32 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:44:32 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:44:38 [32minfo[39m: GET /api/products
+2026-07-14 08:44:38 [32minfo[39m: Fetched products
+2026-07-14 08:44:38 [32minfo[39m: GET /api/products
+2026-07-14 08:44:38 [32minfo[39m: Fetched products
+2026-07-14 08:48:29 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-14 08:48:29 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-14 08:52:17 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:52:17 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:52:17 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:52:17 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:52:19 [32minfo[39m: GET /api/products
+2026-07-14 08:52:19 [32minfo[39m: Fetched products
+2026-07-14 08:52:19 [32minfo[39m: GET /api/products
+2026-07-14 08:52:19 [32minfo[39m: Fetched products
+2026-07-14 08:52:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:52:23 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:52:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:52:23 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:52:32 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:52:32 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:52:32 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:52:32 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:52:37 [32minfo[39m: POST /api/auth/login
+2026-07-14 08:52:54 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:52:54 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:52:54 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 08:52:54 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 08:53:42 [32minfo[39m: GET /api/products
+2026-07-14 08:53:42 [32minfo[39m: Fetched products
+2026-07-14 08:53:42 [32minfo[39m: GET /api/products
+2026-07-14 08:53:42 [32minfo[39m: Fetched products
+2026-07-14 09:10:18 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 09:10:18 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 09:10:18 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 09:10:18 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 09:10:22 [32minfo[39m: GET /api/products
+2026-07-14 09:10:23 [32minfo[39m: Fetched products
+2026-07-14 09:10:23 [32minfo[39m: GET /api/products
+2026-07-14 09:10:23 [32minfo[39m: Fetched products
+2026-07-14 09:10:24 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 09:10:24 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 09:10:24 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 09:10:24 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 09:10:26 [32minfo[39m: GET /api/products
+2026-07-14 09:10:26 [32minfo[39m: Fetched products
+2026-07-14 09:10:26 [32minfo[39m: GET /api/products
+2026-07-14 09:10:26 [32minfo[39m: Fetched products
+2026-07-14 09:10:27 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 09:10:27 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 09:10:27 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 09:10:27 [33mwarn[39m: Client error Cannot GET /api/ai/recommendations
+2026-07-14 09:10:40 [32minfo[39m: POST /api/auth/login
+2026-07-14 09:18:16 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-14 09:18:16 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-14 09:18:21 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-14 09:18:22 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-14 09:18:53 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-14 09:18:54 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-14 09:27:52 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 09:27:53 [31merror[39m: Server error
+2026-07-14 09:27:53 [32minfo[39m: GET /api/ai/recommendations
+2026-07-14 09:27:54 [31merror[39m: Server error
+2026-07-14 09:27:54 [32minfo[39m: GET /api/products
+2026-07-14 09:27:54 [32minfo[39m: Fetched products
+2026-07-14 09:27:54 [32minfo[39m: GET /api/products
+2026-07-14 09:27:54 [32minfo[39m: Fetched products
+2026-07-14 09:47:25 [32minfo[39m: GET /api/products
+2026-07-14 09:47:26 [32minfo[39m: Fetched products
+2026-07-14 09:47:26 [32minfo[39m: GET /api/products
+2026-07-14 09:47:26 [32minfo[39m: Fetched products
+2026-07-15 17:55:17 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 17:55:17 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 17:55:18 [31merror[39m: Server error
+2026-07-15 17:55:18 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 17:55:18 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 17:55:18 [31merror[39m: Server error
+2026-07-15 17:55:42 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 17:55:43 [31merror[39m: Server error
+2026-07-15 17:55:43 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 17:55:43 [31merror[39m: Server error
+2026-07-15 17:55:48 [32minfo[39m: GET /api/products
+2026-07-15 17:55:48 [32minfo[39m: Fetched products
+2026-07-15 17:55:48 [32minfo[39m: GET /api/products
+2026-07-15 17:55:48 [32minfo[39m: Fetched products
+2026-07-15 17:56:05 [32minfo[39m: POST /api/auth/login
+2026-07-15 17:56:10 [32minfo[39m: GET /api/products
+2026-07-15 17:56:10 [32minfo[39m: Fetched products
+2026-07-15 17:56:10 [32minfo[39m: GET /api/products
+2026-07-15 17:56:10 [32minfo[39m: Fetched products
+2026-07-15 17:56:25 [32minfo[39m: POST /api/auth/login
+2026-07-15 17:56:30 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-15 17:56:30 [32minfo[39m: Password reset token generated for user
+2026-07-15 17:56:41 [32minfo[39m: POST /api/auth/login
+2026-07-15 17:57:06 [32minfo[39m: POST /api/auth/login
+2026-07-15 17:57:25 [32minfo[39m: POST /api/auth/login
+2026-07-15 17:57:30 [32minfo[39m: POST /api/auth/forgot-password
+2026-07-15 17:57:30 [32minfo[39m: Password reset token generated for user
+2026-07-15 18:13:12 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 18:13:13 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 18:14:53 [32minfo[39m: GET /
+2026-07-15 18:14:53 [32minfo[39m: GET /favicon.ico
+2026-07-15 18:14:53 [33mwarn[39m: Client error Cannot GET /favicon.ico
+2026-07-15 18:15:59 [31merror[39m: Server error
+2026-07-15 18:16:00 [31merror[39m: Server error
+2026-07-15 18:16:22 [31merror[39m: Server error
+2026-07-15 18:16:23 [31merror[39m: Server error
+2026-07-15 18:16:29 [31merror[39m: Server error
+2026-07-15 18:16:29 [31merror[39m: Server error
+2026-07-15 18:16:33 [31merror[39m: Server error
+2026-07-15 18:16:33 [31merror[39m: Server error
+2026-07-15 18:16:39 [31merror[39m: Server error
+2026-07-15 18:16:39 [31merror[39m: Server error
+2026-07-15 18:17:20 [31merror[39m: Server error
+2026-07-15 18:17:36 [31merror[39m: Server error
+2026-07-15 18:18:24 [31merror[39m: Server error
+2026-07-15 18:19:49 [33mwarn[39m: Client error Expected property name or '}' in JSON at position 1 (line 1 column 2)
+2026-07-15 18:20:02 [32minfo[39m: POST /api/auth/register
+2026-07-15 18:20:03 [31merror[39m: Server error
+2026-07-15 18:20:23 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 18:20:24 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 18:20:37 [32minfo[39m: POST /api/auth/register
+2026-07-15 18:20:38 [32minfo[39m: User registered
+2026-07-15 18:21:55 [31merror[39m: Server error
+2026-07-15 18:21:55 [31merror[39m: Server error
+2026-07-15 18:23:33 [31merror[39m: Server error
+2026-07-15 18:23:43 [31merror[39m: Server error
+2026-07-15 20:11:43 [31merror[39m: Server error
+2026-07-15 20:13:34 [32minfo[39m: POST /api/auth/register
+2026-07-15 20:13:35 [32minfo[39m: User registered
+2026-07-15 20:14:46 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 20:14:47 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 20:15:42 [32minfo[39m: POST /api/auth/register
+2026-07-15 20:16:00 [32minfo[39m: POST /api/auth/register
+2026-07-15 20:16:01 [32minfo[39m: User registered
+2026-07-15 20:17:05 [31merror[39m: Server error
+2026-07-15 20:17:05 [31merror[39m: Server error
+2026-07-15 20:17:37 [31merror[39m: Server error
+2026-07-15 20:18:14 [31merror[39m: Server error
+2026-07-15 22:40:46 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 22:40:47 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 22:41:15 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:41:15 [31merror[39m: Server error
+2026-07-15 22:41:15 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:41:15 [31merror[39m: Server error
+2026-07-15 22:41:28 [32minfo[39m: POST /api/auth/login
+2026-07-15 22:55:03 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 22:55:03 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 22:55:45 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 22:55:45 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 22:56:29 [32minfo[39m: POST /api/auth/login
+2026-07-15 22:56:29 [32minfo[39m: User logged in
+2026-07-15 22:56:29 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:56:30 [31merror[39m: Server error
+2026-07-15 22:56:30 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:56:30 [31merror[39m: Server error
+2026-07-15 22:56:54 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:56:54 [31merror[39m: Server error
+2026-07-15 22:56:54 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:56:54 [31merror[39m: Server error
+2026-07-15 22:56:57 [32minfo[39m: GET /api/products
+2026-07-15 22:56:57 [32minfo[39m: Fetched products
+2026-07-15 22:56:57 [32minfo[39m: GET /api/products
+2026-07-15 22:56:57 [32minfo[39m: Fetched products
+2026-07-15 22:57:08 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:57:08 [31merror[39m: Server error
+2026-07-15 22:57:08 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:57:08 [31merror[39m: Server error
+2026-07-15 22:57:10 [32minfo[39m: GET /api/products
+2026-07-15 22:57:10 [32minfo[39m: Fetched products
+2026-07-15 22:57:10 [32minfo[39m: GET /api/products
+2026-07-15 22:57:10 [32minfo[39m: Fetched products
+2026-07-15 22:57:34 [32minfo[39m: GET /api/wishlist
+2026-07-15 22:57:34 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-15 22:57:34 [32minfo[39m: GET /api/wishlist
+2026-07-15 22:57:34 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-15 22:57:58 [32minfo[39m: POST /api/auth/login
+2026-07-15 22:57:58 [32minfo[39m: User logged in
+2026-07-15 22:57:58 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:57:59 [31merror[39m: Server error
+2026-07-15 22:57:59 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 22:57:59 [31merror[39m: Server error
+2026-07-15 23:04:02 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:04:03 [31merror[39m: Server error
+2026-07-15 23:04:03 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:04:03 [31merror[39m: Server error
+2026-07-15 23:04:50 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:04:50 [31merror[39m: Server error
+2026-07-15 23:04:50 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:04:50 [31merror[39m: Server error
+2026-07-15 23:05:03 [32minfo[39m: GET /api/products
+2026-07-15 23:05:03 [32minfo[39m: Fetched products
+2026-07-15 23:05:03 [32minfo[39m: GET /api/products
+2026-07-15 23:05:03 [32minfo[39m: Fetched products
+2026-07-15 23:05:06 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:05:07 [31merror[39m: Server error
+2026-07-15 23:05:07 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:05:07 [31merror[39m: Server error
+2026-07-15 23:05:08 [32minfo[39m: GET /api/products
+2026-07-15 23:05:08 [32minfo[39m: Fetched products
+2026-07-15 23:05:08 [32minfo[39m: GET /api/products
+2026-07-15 23:05:08 [32minfo[39m: Fetched products
+2026-07-15 23:05:19 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:05:20 [31merror[39m: Server error
+2026-07-15 23:05:20 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:05:20 [31merror[39m: Server error
+2026-07-15 23:15:51 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:15:52 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:16:57 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:16:58 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:17:29 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:17:30 [31merror[39m: Server error
+2026-07-15 23:17:30 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:17:30 [31merror[39m: Server error
+2026-07-15 23:17:36 [32minfo[39m: GET /api/products
+2026-07-15 23:17:36 [32minfo[39m: Fetched products
+2026-07-15 23:17:36 [32minfo[39m: GET /api/products
+2026-07-15 23:17:36 [32minfo[39m: Fetched products
+2026-07-15 23:17:40 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:17:40 [31merror[39m: Server error
+2026-07-15 23:17:40 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:17:40 [31merror[39m: Server error
+2026-07-15 23:17:44 [32minfo[39m: GET /api/products
+2026-07-15 23:17:44 [32minfo[39m: Fetched products
+2026-07-15 23:17:44 [32minfo[39m: GET /api/products
+2026-07-15 23:17:44 [32minfo[39m: Fetched products
+2026-07-15 23:18:03 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:18:03 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:18:36 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:18:36 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:19:25 [32minfo[39m: GET /api/products
+2026-07-15 23:19:25 [32minfo[39m: Fetched products
+2026-07-15 23:19:25 [32minfo[39m: GET /api/products
+2026-07-15 23:19:25 [32minfo[39m: Fetched products
+2026-07-15 23:19:29 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:19:29 [31merror[39m: Server error
+2026-07-15 23:19:29 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:19:30 [31merror[39m: Server error
+2026-07-15 23:19:31 [32minfo[39m: GET /api/products
+2026-07-15 23:19:31 [32minfo[39m: Fetched products
+2026-07-15 23:19:31 [32minfo[39m: GET /api/products
+2026-07-15 23:19:31 [32minfo[39m: Fetched products
+2026-07-15 23:19:39 [32minfo[39m: GET /api/products
+2026-07-15 23:19:39 [32minfo[39m: Fetched products
+2026-07-15 23:19:39 [32minfo[39m: GET /api/products
+2026-07-15 23:19:39 [32minfo[39m: Fetched products
+2026-07-15 23:19:48 [32minfo[39m: GET /api/products
+2026-07-15 23:19:48 [32minfo[39m: Fetched products
+2026-07-15 23:19:48 [32minfo[39m: GET /api/products
+2026-07-15 23:19:48 [32minfo[39m: Fetched products
+2026-07-15 23:19:51 [32minfo[39m: GET /api/wishlist
+2026-07-15 23:19:51 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-15 23:19:51 [32minfo[39m: GET /api/wishlist
+2026-07-15 23:19:51 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-15 23:25:28 [32minfo[39m: GET /api/products
+2026-07-15 23:25:28 [32minfo[39m: Fetched products
+2026-07-15 23:25:28 [32minfo[39m: GET /api/products
+2026-07-15 23:25:28 [32minfo[39m: Fetched products
+2026-07-15 23:28:02 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:28:03 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:28:51 [32minfo[39m: GET /api/products
+2026-07-15 23:28:51 [32minfo[39m: Fetched products
+2026-07-15 23:28:51 [32minfo[39m: GET /api/products
+2026-07-15 23:28:51 [32minfo[39m: Fetched products
+2026-07-15 23:29:13 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:29:14 [31merror[39m: Server error
+2026-07-15 23:29:14 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:29:14 [31merror[39m: Server error
+2026-07-15 23:29:19 [32minfo[39m: GET /api/products
+2026-07-15 23:29:19 [32minfo[39m: Fetched products
+2026-07-15 23:29:19 [32minfo[39m: GET /api/products
+2026-07-15 23:29:19 [32minfo[39m: Fetched products
+2026-07-15 23:29:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:29:23 [31merror[39m: Server error
+2026-07-15 23:29:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:29:24 [31merror[39m: Server error
+2026-07-15 23:30:00 [32minfo[39m: POST /api/ai/chat
+2026-07-15 23:30:01 [31merror[39m: Server error
+2026-07-15 23:30:14 [32minfo[39m: GET /api/products
+2026-07-15 23:30:14 [32minfo[39m: Fetched products
+2026-07-15 23:30:14 [32minfo[39m: GET /api/products
+2026-07-15 23:30:14 [32minfo[39m: Fetched products
+2026-07-15 23:30:29 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:30:29 [31merror[39m: Server error
+2026-07-15 23:30:29 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:30:29 [31merror[39m: Server error
+2026-07-15 23:30:42 [32minfo[39m: POST /api/ai/chat
+2026-07-15 23:30:43 [31merror[39m: Server error
+2026-07-15 23:30:48 [32minfo[39m: POST /api/ai/chat
+2026-07-15 23:30:48 [31merror[39m: Server error
+2026-07-15 23:30:56 [32minfo[39m: GET /api/products
+2026-07-15 23:30:56 [32minfo[39m: Fetched products
+2026-07-15 23:30:56 [32minfo[39m: GET /api/products
+2026-07-15 23:30:56 [32minfo[39m: Fetched products
+2026-07-15 23:34:11 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:34:12 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:35:04 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:35:05 [31merror[39m: Server error
+2026-07-15 23:35:05 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:35:05 [31merror[39m: Server error
+2026-07-15 23:35:08 [32minfo[39m: GET /api/products
+2026-07-15 23:35:08 [32minfo[39m: Fetched products
+2026-07-15 23:35:08 [32minfo[39m: GET /api/products
+2026-07-15 23:35:08 [32minfo[39m: Fetched products
+2026-07-15 23:35:46 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:35:47 [31merror[39m: Server error
+2026-07-15 23:35:47 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:35:47 [31merror[39m: Server error
+2026-07-15 23:37:54 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:37:56 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:41:24 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:41:24 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:41:37 [32minfo[39m: GET /api/products
+2026-07-15 23:41:37 [32minfo[39m: Fetched products
+2026-07-15 23:41:37 [32minfo[39m: GET /api/products
+2026-07-15 23:41:38 [32minfo[39m: Fetched products
+2026-07-15 23:42:20 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-15 23:42:20 [32minfo[39m: Fetched product
+2026-07-15 23:42:20 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-15 23:42:20 [32minfo[39m: Fetched product
+2026-07-15 23:42:20 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-15 23:42:20 [31merror[39m: Server error
+2026-07-15 23:42:20 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-15 23:42:20 [31merror[39m: Server error
+2026-07-15 23:42:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:42:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:42:25 [32minfo[39m: GET /api/products
+2026-07-15 23:42:25 [32minfo[39m: Fetched products
+2026-07-15 23:42:25 [32minfo[39m: GET /api/products
+2026-07-15 23:42:25 [32minfo[39m: Fetched products
+2026-07-15 23:42:27 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-15 23:42:27 [32minfo[39m: Fetched product
+2026-07-15 23:42:27 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-15 23:42:27 [32minfo[39m: Fetched product
+2026-07-15 23:42:27 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-15 23:42:28 [31merror[39m: Server error
+2026-07-15 23:42:28 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-15 23:42:28 [31merror[39m: Server error
+2026-07-15 23:42:38 [32minfo[39m: GET /api/products
+2026-07-15 23:42:38 [32minfo[39m: Fetched products
+2026-07-15 23:42:38 [32minfo[39m: GET /api/products
+2026-07-15 23:42:38 [32minfo[39m: Fetched products
+2026-07-15 23:42:39 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:42:40 [32minfo[39m: Fetched product
+2026-07-15 23:42:40 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:42:40 [32minfo[39m: Fetched product
+2026-07-15 23:42:40 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:42:40 [31merror[39m: Server error
+2026-07-15 23:42:40 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:42:40 [31merror[39m: Server error
+2026-07-15 23:45:45 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:45:45 [32minfo[39m: Fetched product
+2026-07-15 23:45:45 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:45:45 [32minfo[39m: Fetched product
+2026-07-15 23:45:47 [32minfo[39m: GET /api/products
+2026-07-15 23:45:47 [32minfo[39m: Fetched products
+2026-07-15 23:45:47 [32minfo[39m: GET /api/products
+2026-07-15 23:45:47 [32minfo[39m: Fetched products
+2026-07-15 23:45:47 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:45:47 [31merror[39m: Server error
+2026-07-15 23:45:47 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:45:48 [31merror[39m: Server error
+2026-07-15 23:46:19 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:46:20 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:47:20 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:47:20 [32minfo[39m: Fetched product
+2026-07-15 23:47:20 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:47:20 [32minfo[39m: Fetched product
+2026-07-15 23:47:20 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:47:21 [31merror[39m: Server error
+2026-07-15 23:47:21 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f9
+2026-07-15 23:47:21 [31merror[39m: Server error
+2026-07-15 23:47:25 [32minfo[39m: GET /api/products
+2026-07-15 23:47:25 [32minfo[39m: Fetched products
+2026-07-15 23:47:25 [32minfo[39m: GET /api/products
+2026-07-15 23:47:25 [32minfo[39m: Fetched products
+2026-07-15 23:47:28 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:47:28 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:47:43 [32minfo[39m: POST /api/ai/chat
+2026-07-15 23:47:43 [33mwarn[39m: Could not parse intent, falling back to general
+2026-07-15 23:47:43 [31merror[39m: Server error
+2026-07-15 23:47:52 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:47:52 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:48:06 [32minfo[39m: POST /api/ai/chat
+2026-07-15 23:48:06 [33mwarn[39m: Could not parse intent, falling back to general
+2026-07-15 23:48:06 [31merror[39m: Server error
+2026-07-15 23:49:44 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:49:44 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:51:06 [32minfo[39m: POST /api/ai/chat
+2026-07-15 23:51:06 [32minfo[39m: AI Chat processed
+2026-07-15 23:51:57 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:51:57 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:52:07 [32minfo[39m: POST /api/ai/chat
+2026-07-15 23:52:07 [32minfo[39m: AI Chat processed
+2026-07-15 23:52:22 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:52:22 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:56:46 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-15 23:56:47 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-15 23:57:22 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:57:22 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:57:26 [32minfo[39m: GET /api/products
+2026-07-15 23:57:26 [32minfo[39m: Fetched products
+2026-07-15 23:57:26 [32minfo[39m: GET /api/products
+2026-07-15 23:57:26 [32minfo[39m: Fetched products
+2026-07-15 23:57:29 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:57:29 [32minfo[39m: GET /api/ai/recommendations
+2026-07-15 23:57:38 [32minfo[39m: POST /api/ai/chat
+2026-07-15 23:57:38 [32minfo[39m: AI Chat processed
+2026-07-16 00:00:24 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:00:24 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:00:36 [32minfo[39m: POST /api/ai/chat
+2026-07-16 00:00:36 [32minfo[39m: AI Chat processed
+2026-07-16 00:00:54 [32minfo[39m: POST /api/ai/chat
+2026-07-16 00:00:54 [32minfo[39m: AI Chat processed
+2026-07-16 00:01:08 [32minfo[39m: POST /api/ai/chat
+2026-07-16 00:01:08 [32minfo[39m: AI Chat processed
+2026-07-16 00:01:29 [32minfo[39m: POST /api/ai/chat
+2026-07-16 00:01:29 [32minfo[39m: AI Chat processed
+2026-07-16 00:01:47 [32minfo[39m: POST /api/carts
+2026-07-16 00:01:47 [32minfo[39m: Added to cart
+2026-07-16 00:01:49 [32minfo[39m: POST /api/carts
+2026-07-16 00:01:49 [32minfo[39m: Added to cart
+2026-07-16 00:01:52 [32minfo[39m: POST /api/carts
+2026-07-16 00:01:52 [32minfo[39m: Added to cart
+2026-07-16 00:01:56 [32minfo[39m: POST /api/carts
+2026-07-16 00:01:56 [32minfo[39m: Added to cart
+2026-07-16 00:02:16 [32minfo[39m: GET /api/products
+2026-07-16 00:02:16 [32minfo[39m: Fetched products
+2026-07-16 00:02:16 [32minfo[39m: GET /api/products
+2026-07-16 00:02:16 [32minfo[39m: Fetched products
+2026-07-16 00:02:44 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12ff
+2026-07-16 00:02:44 [32minfo[39m: Fetched product
+2026-07-16 00:02:44 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12ff
+2026-07-16 00:02:44 [32minfo[39m: Fetched product
+2026-07-16 00:02:44 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12ff
+2026-07-16 00:02:44 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12ff
+2026-07-16 00:06:20 [32minfo[39m: GET /api/products
+2026-07-16 00:06:20 [32minfo[39m: Fetched products
+2026-07-16 00:06:20 [32minfo[39m: GET /api/products
+2026-07-16 00:06:20 [32minfo[39m: Fetched products
+2026-07-16 00:06:21 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:06:21 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:06:24 [32minfo[39m: POST /api/cart
+2026-07-16 00:06:24 [33mwarn[39m: Client error Cannot POST /api/cart
+2026-07-16 00:06:37 [32minfo[39m: POST /api/ai/chat
+2026-07-16 00:06:37 [32minfo[39m: AI Chat processed
+2026-07-16 00:06:43 [32minfo[39m: GET /api/products
+2026-07-16 00:06:43 [32minfo[39m: Fetched products
+2026-07-16 00:06:43 [32minfo[39m: GET /api/products
+2026-07-16 00:06:43 [32minfo[39m: Fetched products
+2026-07-16 00:06:44 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f8
+2026-07-16 00:06:44 [32minfo[39m: Fetched product
+2026-07-16 00:06:44 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f8
+2026-07-16 00:06:44 [32minfo[39m: Fetched product
+2026-07-16 00:06:44 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f8
+2026-07-16 00:06:44 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f8
+2026-07-16 00:06:47 [32minfo[39m: GET /api/products
+2026-07-16 00:06:47 [32minfo[39m: Fetched products
+2026-07-16 00:06:47 [32minfo[39m: GET /api/products
+2026-07-16 00:06:47 [32minfo[39m: Fetched products
+2026-07-16 00:06:49 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f9
+2026-07-16 00:06:49 [32minfo[39m: Fetched product
+2026-07-16 00:06:49 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f9
+2026-07-16 00:06:49 [32minfo[39m: Fetched product
+2026-07-16 00:06:49 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f9
+2026-07-16 00:06:49 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f9
+2026-07-16 00:08:56 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:09:34 [32minfo[39m: GET /api/products
+2026-07-16 00:09:34 [32minfo[39m: Fetched products
+2026-07-16 00:09:34 [32minfo[39m: GET /api/products
+2026-07-16 00:09:35 [32minfo[39m: Fetched products
+2026-07-16 00:09:39 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:09:39 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:09:45 [32minfo[39m: GET /api/products
+2026-07-16 00:09:45 [32minfo[39m: Fetched products
+2026-07-16 00:09:45 [32minfo[39m: GET /api/products
+2026-07-16 00:09:45 [32minfo[39m: Fetched products
+2026-07-16 00:09:48 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:09:48 [32minfo[39m: Fetched product
+2026-07-16 00:09:48 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:09:48 [32minfo[39m: Fetched product
+2026-07-16 00:09:48 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:09:48 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:09:51 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:09:51 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:15:00 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:15:00 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:15:05 [32minfo[39m: GET /api/products
+2026-07-16 00:15:05 [32minfo[39m: Fetched products
+2026-07-16 00:15:05 [32minfo[39m: GET /api/products
+2026-07-16 00:15:05 [32minfo[39m: Fetched products
+2026-07-16 00:15:09 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f7
+2026-07-16 00:15:09 [32minfo[39m: Fetched product
+2026-07-16 00:15:09 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f7
+2026-07-16 00:15:09 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f7
+2026-07-16 00:15:09 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f7
+2026-07-16 00:15:09 [32minfo[39m: Fetched product
+2026-07-16 00:15:11 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:15:11 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:15:22 [32minfo[39m: GET /api/products
+2026-07-16 00:15:23 [32minfo[39m: Fetched products
+2026-07-16 00:15:23 [32minfo[39m: GET /api/products
+2026-07-16 00:15:23 [32minfo[39m: Fetched products
+2026-07-16 00:15:25 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f7
+2026-07-16 00:15:25 [32minfo[39m: Fetched product
+2026-07-16 00:15:25 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f7
+2026-07-16 00:15:25 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f7
+2026-07-16 00:15:25 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f7
+2026-07-16 00:15:25 [32minfo[39m: Fetched product
+2026-07-16 00:15:27 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:15:27 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:15:29 [32minfo[39m: GET /api/products
+2026-07-16 00:15:29 [32minfo[39m: Fetched products
+2026-07-16 00:15:29 [32minfo[39m: GET /api/products
+2026-07-16 00:15:29 [32minfo[39m: Fetched products
+2026-07-16 00:15:31 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f8
+2026-07-16 00:15:31 [32minfo[39m: Fetched product
+2026-07-16 00:15:31 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12f8
+2026-07-16 00:15:31 [32minfo[39m: Fetched product
+2026-07-16 00:15:31 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f8
+2026-07-16 00:15:31 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12f8
+2026-07-16 00:19:54 [32minfo[39m: POST /api/checkout/address
+2026-07-16 00:19:54 [33mwarn[39m: Client error Cannot POST /api/checkout/address
+2026-07-16 00:19:57 [32minfo[39m: POST /api/checkout/address
+2026-07-16 00:19:57 [33mwarn[39m: Client error Cannot POST /api/checkout/address
+2026-07-16 00:23:21 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:23:21 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:24:35 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:24:47 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:24:47 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:24:54 [32minfo[39m: GET /api/products
+2026-07-16 00:24:54 [32minfo[39m: Fetched products
+2026-07-16 00:24:54 [32minfo[39m: GET /api/products
+2026-07-16 00:24:54 [32minfo[39m: Fetched products
+2026-07-16 00:24:59 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:24:59 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:25:01 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:25:01 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:25:22 [32minfo[39m: GET /api/products
+2026-07-16 00:25:22 [32minfo[39m: Fetched products
+2026-07-16 00:25:22 [32minfo[39m: GET /api/products
+2026-07-16 00:25:22 [32minfo[39m: Fetched products
+2026-07-16 00:25:25 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:25:25 [32minfo[39m: Fetched product
+2026-07-16 00:25:25 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:25:25 [32minfo[39m: Fetched product
+2026-07-16 00:25:25 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:25:25 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:31:55 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:31:55 [32minfo[39m: GET /api/ai/recommendations
+2026-07-16 00:32:07 [32minfo[39m: GET /api/products
+2026-07-16 00:32:07 [32minfo[39m: Fetched products
+2026-07-16 00:32:07 [32minfo[39m: GET /api/products
+2026-07-16 00:32:07 [32minfo[39m: Fetched products
+2026-07-16 00:32:08 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:32:08 [32minfo[39m: Fetched product
+2026-07-16 00:32:08 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:32:08 [32minfo[39m: Fetched product
+2026-07-16 00:32:08 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:32:08 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-16 00:32:44 [32minfo[39m: GET /api/orders/myorders
+2026-07-16 00:32:44 [31merror[39m: Server error
+2026-07-16 00:32:44 [32minfo[39m: GET /api/orders/myorders
+2026-07-16 00:32:44 [31merror[39m: Server error
+2026-07-16 00:33:40 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-16 00:33:40 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-16 00:34:34 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-16 00:34:34 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-17 13:56:53 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-17 13:56:54 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-17 13:57:33 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 13:57:33 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 13:57:52 [32minfo[39m: GET /api/products
+2026-07-17 13:57:52 [32minfo[39m: Fetched products
+2026-07-17 13:57:52 [32minfo[39m: GET /api/products
+2026-07-17 13:57:52 [32minfo[39m: Fetched products
+2026-07-17 13:57:55 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 13:57:55 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 13:58:10 [32minfo[39m: POST /api/ai/chat
+2026-07-17 13:58:10 [32minfo[39m: AI Chat processed
+2026-07-17 13:58:20 [32minfo[39m: GET /api/products
+2026-07-17 13:58:20 [32minfo[39m: Fetched products
+2026-07-17 13:58:20 [32minfo[39m: GET /api/products
+2026-07-17 13:58:20 [32minfo[39m: Fetched products
+2026-07-17 13:58:41 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-17 13:58:41 [32minfo[39m: Fetched product
+2026-07-17 13:58:41 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-17 13:58:41 [32minfo[39m: Fetched product
+2026-07-17 13:58:41 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-17 13:58:41 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-17 13:59:00 [32minfo[39m: POST /api/auth/login
+2026-07-17 13:59:00 [32minfo[39m: User logged in
+2026-07-17 13:59:00 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 13:59:00 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 13:59:06 [32minfo[39m: GET /api/products
+2026-07-17 13:59:06 [32minfo[39m: Fetched products
+2026-07-17 13:59:06 [32minfo[39m: GET /api/products
+2026-07-17 13:59:06 [32minfo[39m: Fetched products
+2026-07-17 13:59:08 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1304
+2026-07-17 13:59:08 [32minfo[39m: Fetched product
+2026-07-17 13:59:08 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1304
+2026-07-17 13:59:08 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1304
+2026-07-17 13:59:08 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1304
+2026-07-17 13:59:08 [32minfo[39m: Fetched product
+2026-07-17 13:59:41 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 13:59:41 [31merror[39m: Server error
+2026-07-17 13:59:41 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 13:59:41 [31merror[39m: Server error
+2026-07-17 14:02:49 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:02:49 [31merror[39m: Server error
+2026-07-17 14:02:49 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:02:49 [31merror[39m: Server error
+2026-07-17 14:02:51 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:02:51 [31merror[39m: Server error
+2026-07-17 14:02:52 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:02:52 [31merror[39m: Server error
+2026-07-17 14:02:53 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:02:53 [31merror[39m: Server error
+2026-07-17 14:02:53 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:02:53 [31merror[39m: Server error
+2026-07-17 14:02:53 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:02:53 [31merror[39m: Server error
+2026-07-17 14:02:53 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:02:53 [31merror[39m: Server error
+2026-07-17 14:03:21 [32minfo[39m: GET /api/products
+2026-07-17 14:03:21 [32minfo[39m: Fetched products
+2026-07-17 14:03:21 [32minfo[39m: GET /api/products
+2026-07-17 14:03:21 [32minfo[39m: Fetched products
+2026-07-17 14:03:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:03:23 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:03:34 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:03:34 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:03:34 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:03:34 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:03:43 [32minfo[39m: POST /api/auth/login
+2026-07-17 14:03:44 [32minfo[39m: User logged in
+2026-07-17 14:03:44 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:03:44 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:03:46 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:03:46 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:03:46 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:03:46 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:10:52 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-17 14:10:53 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-17 14:13:12 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:13:13 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:13:20 [32minfo[39m: GET /api/products
+2026-07-17 14:13:20 [32minfo[39m: Fetched products
+2026-07-17 14:13:20 [32minfo[39m: GET /api/products
+2026-07-17 14:13:20 [32minfo[39m: Fetched products
+2026-07-17 14:14:20 [32minfo[39m: POST /api/auth/register
+2026-07-17 14:14:21 [32minfo[39m: User registered
+2026-07-17 14:14:22 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:14:22 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:14:37 [32minfo[39m: GET /api/products
+2026-07-17 14:14:37 [32minfo[39m: Fetched products
+2026-07-17 14:14:37 [32minfo[39m: GET /api/products
+2026-07-17 14:14:37 [32minfo[39m: Fetched products
+2026-07-17 14:15:27 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:15:27 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:15:43 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:15:43 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:15:59 [32minfo[39m: GET /api/products
+2026-07-17 14:15:59 [32minfo[39m: Fetched products
+2026-07-17 14:15:59 [32minfo[39m: GET /api/products
+2026-07-17 14:15:59 [32minfo[39m: Fetched products
+2026-07-17 14:16:24 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:16:24 [32minfo[39m: Fetched user orders
+2026-07-17 14:16:24 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:16:24 [32minfo[39m: Fetched user orders
+2026-07-17 14:16:37 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-17 14:16:37 [32minfo[39m: Fetched product
+2026-07-17 14:16:37 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b12fc
+2026-07-17 14:16:37 [32minfo[39m: Fetched product
+2026-07-17 14:16:37 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-17 14:16:37 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b12fc
+2026-07-17 14:17:00 [32minfo[39m: GET /api/products
+2026-07-17 14:17:00 [32minfo[39m: Fetched products
+2026-07-17 14:17:00 [32minfo[39m: GET /api/products
+2026-07-17 14:17:00 [32minfo[39m: Fetched products
+2026-07-17 14:17:31 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1304
+2026-07-17 14:17:31 [32minfo[39m: Fetched product
+2026-07-17 14:17:31 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1304
+2026-07-17 14:17:31 [32minfo[39m: Fetched product
+2026-07-17 14:17:31 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1304
+2026-07-17 14:17:31 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1304
+2026-07-17 14:19:46 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:19:47 [32minfo[39m: Fetched user orders
+2026-07-17 14:19:47 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:19:47 [32minfo[39m: Fetched user orders
+2026-07-17 14:19:49 [32minfo[39m: GET /api/products
+2026-07-17 14:19:49 [32minfo[39m: Fetched products
+2026-07-17 14:19:49 [32minfo[39m: GET /api/products
+2026-07-17 14:19:49 [32minfo[39m: Fetched products
+2026-07-17 14:20:53 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1304
+2026-07-17 14:20:53 [32minfo[39m: Fetched product
+2026-07-17 14:20:53 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1304
+2026-07-17 14:20:53 [32minfo[39m: Fetched product
+2026-07-17 14:20:53 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1304
+2026-07-17 14:20:53 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1304
+2026-07-17 14:21:01 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:21:01 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:21:11 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:21:11 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:21:11 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:21:11 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:21:14 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:21:14 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:21:27 [32minfo[39m: POST /api/auth/login
+2026-07-17 14:21:28 [32minfo[39m: User logged in
+2026-07-17 14:21:28 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:21:28 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:21:43 [32minfo[39m: GET /api/products
+2026-07-17 14:21:43 [32minfo[39m: Fetched products
+2026-07-17 14:21:43 [32minfo[39m: GET /api/products
+2026-07-17 14:21:43 [32minfo[39m: Fetched products
+2026-07-17 14:21:49 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1304
+2026-07-17 14:21:49 [32minfo[39m: Fetched product
+2026-07-17 14:21:49 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1304
+2026-07-17 14:21:49 [32minfo[39m: Fetched product
+2026-07-17 14:21:49 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1304
+2026-07-17 14:21:50 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1304
+2026-07-17 14:22:08 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:22:08 [32minfo[39m: Fetched user orders
+2026-07-17 14:22:08 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:22:08 [32minfo[39m: Fetched user orders
+2026-07-17 14:22:16 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:22:16 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:22:16 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:22:16 [33mwarn[39m: Client error Cannot GET /api/wishlist
+2026-07-17 14:23:42 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-17 14:23:43 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-17 14:23:51 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-17 14:23:52 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-17 14:24:09 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-17 14:24:09 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-17 14:24:48 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:25:43 [32minfo[39m: GET /api/products
+2026-07-17 14:25:43 [32minfo[39m: Fetched products
+2026-07-17 14:25:43 [32minfo[39m: GET /api/products
+2026-07-17 14:25:43 [32minfo[39m: Fetched products
+2026-07-17 14:25:45 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1314
+2026-07-17 14:25:45 [32minfo[39m: Fetched product
+2026-07-17 14:25:45 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1314
+2026-07-17 14:25:45 [32minfo[39m: Fetched product
+2026-07-17 14:25:45 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1314
+2026-07-17 14:25:45 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1314
+2026-07-17 14:26:10 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:26:10 [32minfo[39m: Fetched user orders
+2026-07-17 14:26:10 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:26:10 [32minfo[39m: Fetched user orders
+2026-07-17 14:26:14 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:26:14 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:26:28 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:26:28 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:26:39 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:26:39 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:26:51 [32minfo[39m: GET /api/products
+2026-07-17 14:26:54 [32minfo[39m: Fetched products
+2026-07-17 14:26:54 [32minfo[39m: GET /api/products
+2026-07-17 14:26:54 [32minfo[39m: Fetched products
+2026-07-17 14:26:56 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:26:56 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:26:58 [32minfo[39m: GET /api/products
+2026-07-17 14:26:59 [32minfo[39m: Fetched products
+2026-07-17 14:26:59 [32minfo[39m: GET /api/products
+2026-07-17 14:26:59 [32minfo[39m: Fetched products
+2026-07-17 14:27:00 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1316
+2026-07-17 14:27:00 [32minfo[39m: Fetched product
+2026-07-17 14:27:00 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1316
+2026-07-17 14:27:00 [32minfo[39m: Fetched product
+2026-07-17 14:27:00 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1316
+2026-07-17 14:27:00 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1316
+2026-07-17 14:27:05 [32minfo[39m: GET /api/products
+2026-07-17 14:27:05 [32minfo[39m: Fetched products
+2026-07-17 14:27:05 [32minfo[39m: GET /api/products
+2026-07-17 14:27:05 [32minfo[39m: Fetched products
+2026-07-17 14:27:10 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:27:10 [32minfo[39m: GET /api/wishlist
+2026-07-17 14:27:12 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:27:12 [32minfo[39m: Fetched user orders
+2026-07-17 14:27:13 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:27:13 [32minfo[39m: Fetched user orders
+2026-07-17 14:29:00 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-17 14:29:01 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-17 14:30:19 [32minfo[39m: GET /api/products
+2026-07-17 14:30:19 [32minfo[39m: Fetched products
+2026-07-17 14:30:19 [32minfo[39m: GET /api/products
+2026-07-17 14:30:19 [32minfo[39m: Fetched products
+2026-07-17 14:30:21 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1316
+2026-07-17 14:30:21 [32minfo[39m: Fetched product
+2026-07-17 14:30:21 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1316
+2026-07-17 14:30:21 [32minfo[39m: Fetched product
+2026-07-17 14:30:21 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1316
+2026-07-17 14:30:21 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1316
+2026-07-17 14:30:49 [32minfo[39m: POST /api/orders
+2026-07-17 14:30:50 [32minfo[39m: Created order
+2026-07-17 14:30:50 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:30:50 [32minfo[39m: Fetched user orders
+2026-07-17 14:30:50 [32minfo[39m: GET /api/orders/myorders
+2026-07-17 14:30:50 [32minfo[39m: Fetched user orders
+2026-07-17 14:30:56 [32minfo[39m: GET /api/products
+2026-07-17 14:30:56 [32minfo[39m: Fetched products
+2026-07-17 14:30:56 [32minfo[39m: GET /api/products
+2026-07-17 14:30:56 [32minfo[39m: Fetched products
+2026-07-17 14:30:57 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:30:57 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:31:07 [32minfo[39m: POST /api/ai/chat
+2026-07-17 14:31:07 [32minfo[39m: AI Chat processed
+2026-07-17 14:31:10 [32minfo[39m: POST /api/carts
+2026-07-17 14:31:11 [32minfo[39m: Added to cart
+2026-07-17 14:31:15 [32minfo[39m: POST /api/carts
+2026-07-17 14:31:15 [32minfo[39m: Added to cart
+2026-07-17 14:31:40 [32minfo[39m: POST /api/cart
+2026-07-17 14:31:40 [33mwarn[39m: Client error Cannot POST /api/cart
+2026-07-17 14:31:50 [32minfo[39m: POST /api/auth/login
+2026-07-17 14:31:51 [32minfo[39m: User logged in
+2026-07-17 14:31:51 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:31:51 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:31:53 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:31:53 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:31:56 [32minfo[39m: POST /api/cart
+2026-07-17 14:31:56 [33mwarn[39m: Client error Cannot POST /api/cart
+2026-07-17 14:32:26 [32minfo[39m: POST /api/ai/chat
+2026-07-17 14:32:26 [32minfo[39m: AI Chat processed
+2026-07-17 14:32:28 [32minfo[39m: POST /api/carts
+2026-07-17 14:32:28 [32minfo[39m: Added to cart
+2026-07-17 14:32:37 [32minfo[39m: GET /api/products
+2026-07-17 14:32:37 [32minfo[39m: Fetched products
+2026-07-17 14:32:37 [32minfo[39m: GET /api/products
+2026-07-17 14:32:37 [32minfo[39m: Fetched products
+2026-07-17 14:33:38 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:33:38 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 14:33:41 [32minfo[39m: POST /api/cart
+2026-07-17 14:33:41 [33mwarn[39m: Client error Cannot POST /api/cart
+2026-07-17 14:38:20 [32minfo[39m: ⚡️ Received shutdown signal, closing server...
+2026-07-17 15:10:49 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-07-17 15:10:49 [32minfo[39m: ✅ Connected to MongoDB
+2026-07-17 15:11:19 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 15:11:19 [32minfo[39m: GET /api/ai/recommendations
+2026-07-17 15:11:23 [32minfo[39m: GET /api/products
+2026-07-17 15:11:23 [32minfo[39m: Fetched products
+2026-07-17 15:11:23 [32minfo[39m: GET /api/products
+2026-07-17 15:11:23 [32minfo[39m: Fetched products
+2026-07-17 15:11:26 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1316
+2026-07-17 15:11:26 [32minfo[39m: Fetched product
+2026-07-17 15:11:26 [32minfo[39m: GET /api/products/6a57cbae6373d4dd7a8b1316
+2026-07-17 15:11:26 [32minfo[39m: Fetched product
+2026-07-17 15:11:26 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1316
+2026-07-17 15:11:26 [32minfo[39m: GET /api/ai/review-summary?productId=6a57cbae6373d4dd7a8b1316

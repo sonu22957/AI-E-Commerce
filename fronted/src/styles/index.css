@@ -1,0 +1,12 @@
+@import "./globals.css";
+
+/* Extra index-specific overrides (if any) */
+:root {
+  --primary-color: #4f46e5; /* Indigo 600 */
+  --primary-hover: #4338ca; /* Indigo 700 */
+}
+
+/* Ensure smooth scrolling across the entire app */
+html {
+  scroll-behavior: smooth;
+}
