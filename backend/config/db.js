@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 
 // Prefer a full MONGODB_URI from env (works with Atlas, Docker, local, etc.)
 // Falls back to building a URI from individual DB_* parts
-const mongoURI =
+const mongoURI =  
   process.env.MONGODB_URI ||
   (() => {
     const DB_USER     = process.env.DB_USER     || '';
