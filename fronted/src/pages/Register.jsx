@@ -49,6 +49,7 @@ export default function Register() {
     setError(null);
     try {
       // Adjust endpoint if needed
+      colsole.log(formData , "formData" , ".env", import.meta.env.VITE_API_URL);
       const response = await axiosInstance.post("/api/auth/register", {
         name: formData.name,
         email: formData.email,
