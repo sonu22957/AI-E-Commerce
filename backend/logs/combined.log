@@ -1096,3 +1096,5 @@
 2026-08-13 15:19:55 [32minfo[39m: GET /api/products
 2026-08-13 15:19:55 [32minfo[39m: Fetched products
 2026-08-13 15:31:40 [32minfo[39m: GET /api/ai/recommendations
+2026-08-13 15:45:39 [32minfo[39m: 🚀 Server listening on http://localhost:5000
+2026-08-13 15:45:39 [32minfo[39m: ✅ Connected to MongoDB

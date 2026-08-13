@@ -1,0 +1,109 @@
+# ==============================
+# Node.js / MERN
+# ==============================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==============================
+# Frontend - React / Vite
+# ==============================
+
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# React cache
+frontend/.cache/
+
+# ==============================
+# Backend
+# ==============================
+
+backend/node_modules/
+backend/dist/
+backend/build/
+backend/.cache/
+
+# ==============================
+# Logs
+# ==============================
+
+logs/
+*.log
+
+# ==============================
+# OS Files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# IDE / Editors
+# ==============================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Keep VS Code settings if needed
+# !.vscode/extensions.json
+
+# ==============================
+# Testing / Coverage
+# ==============================
+
+coverage/
+.nyc_output/
+
+# ==============================
+# Temporary files
+# ==============================
+
+tmp/
+temp/
+*.tmp
+
+# ==============================
+# Build / Cache
+# ==============================
+
+.cache/
+.parcel-cache/
+.eslintcache
+
+# ==============================
+# Environment / Secrets
+# ==============================
+
+*.pem
+*.key
+
+# ==============================
+# Optional: Local uploads
+# ==============================
+
+backend/uploads/
+uploads/
+
+# ==============================
+# Optional: MongoDB local files
+# ==============================
+
+data/
+*.db
+*.sqlite
