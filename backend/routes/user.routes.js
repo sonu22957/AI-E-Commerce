@@ -15,7 +15,7 @@ const {
   getMe,
   updateUser,
   deleteUser,
-} = require('../controllers/user.Controller');
+} = require('../controllers/user.Controller.js');
 
 // ---------------------------------------------------------------------------
 // All user routes require authentication (protect middleware)
